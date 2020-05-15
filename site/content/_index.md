@@ -1,5 +1,6 @@
 ---
 title: Home
+jumbotron_title: Dogs Are People Too
 image: /img/dog-handshake.png
 blurb:
     heading: Why?
