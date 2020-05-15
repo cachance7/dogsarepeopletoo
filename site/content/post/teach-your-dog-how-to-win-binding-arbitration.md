@@ -1,8 +1,8 @@
 ---
 title: Teach your dog how to win binding arbitration
 date: 2020-05-14T17:40:15.291Z
-description: Binding arbitration is a means of resolving a dispute that is private, less formal, less costly and less time-consuming than traditional litigation, but there are some pitfalls to avoid. Help your pooch win their legal dispute with these handy tips.
-image: img/dog-conference.jpg
+description: Binding arbitration is a means of resolving a legal dispute, but there are some pitfalls to avoid. Help your pooch win their case with these handy tips.
+image: /img/dog-conference.jpg
 ---
 1. Make sure your dog gets a good night's rest beforehand.
 1. Drive them to the meeting before all the other parties arrive in order to get a head-start.
