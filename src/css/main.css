@@ -83,5 +83,15 @@
 @import './imports/_debug-children';
 @import './imports/_debug-grid';
 
+
+  .jumbotron h1 {
+    position: absolute;
+    left: 0;
+    margin-left: -1.5rem;
+    text-transform: capitalize;
+    font-size: 2rem;
+  }
+
+
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
