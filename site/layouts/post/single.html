@@ -9,6 +9,7 @@
     <div class="cms mw6 steps">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ .Content }}
       {{ if .Params.steps }}
         {{ range .Params.steps }}
         <dt>{{ . }}</dt>
