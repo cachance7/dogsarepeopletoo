@@ -5,3 +5,4 @@ site/data/webpack.json
 yarn-error.log
 .*.sw*
 .DS_STORE
+site/static/config.yml
