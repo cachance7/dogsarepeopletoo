@@ -6,10 +6,14 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
-    <div class="cms mw6">
+    <div class="cms mw6 steps">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
+      {{ if .Params.steps }}
+        {{ range .Params.steps }}
+        <dt>{{ . }}</dt>
+        {{ end }}
+      {{ end }}
     </div>
   </div>
 {{ end }}

@@ -92,6 +92,26 @@
     font-size: 2rem;
   }
 
+  .steps {
+    counter-reset: step-counter;
+  }
+  .steps dt {
+    position: relative;
+    padding: 4px 0 10px 0;
+    padding-left: 50px;
+    margin-bottom: 1.5rem;
+  }
+
+  .steps dt:before {
+    content: counter(step-counter);
+    counter-increment: step-counter;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font: bold 60px/1 Sans-Serif;
+    color: var(--primary);
+  }
+
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
