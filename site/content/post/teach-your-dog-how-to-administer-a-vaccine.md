@@ -15,8 +15,8 @@ steps:
   - Have your dog show the label to the intended vaccine recipient and tap on it
     so they are aware of any potential complications.
   - "If your dog is licensed to practice medicine in this state, have them point
-    to it on the wall. (Note: now is a good time to hang it up if you haven't
-    done so yet). *"
+    to their medical license on the wall. (Note: now is a good time to hang it
+    up if you haven't done so yet). *"
   - If the patient is nervous, it is expected that your dog will tell a joke.
     Have them say "this won't hurt a bit". (Step assumes your dog knows how to
     speak.) *
