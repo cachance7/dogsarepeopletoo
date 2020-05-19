@@ -7,6 +7,11 @@
   <title>Content Manager</title>
 
   <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
+  <style>
+    button[class*="DeleteButton"] {
+      display: none;
+    }
+  </style>
 </head>
 <body>
   <script src="<%= htmlWebpackPlugin.files.chunks.cms.entry %>"></script>
