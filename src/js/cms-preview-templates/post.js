@@ -1,6 +1,8 @@
 import React from "react";
 import format from "date-fns/format";
 
+import StepsPreview from "./components/steps";
+
 export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset} = this.props;
@@ -16,6 +18,7 @@ export default class PostPreview extends React.Component {
         <p>{ entry.getIn(["data", "description"]) }</p>
         { image && <img src={ image } alt={ entry.getIn(["data", "title"])} /> }
         { widgetFor("body") }
+        <StepsPreview steps={entry.getIn(["data", "steps"])} />
       </div>
     </div>;
   }
