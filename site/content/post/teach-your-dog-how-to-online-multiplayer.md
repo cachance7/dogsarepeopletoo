@@ -1,13 +1,13 @@
 ---
-title: Teach Your Dog How to Rage Quit
+title: Teach Your Dog How to Play Online Multiplayer Games
 date: 2020-05-20T06:15:40.425Z
-description: Games usually serve as fun past-times, but they can be challenging
-  and even a little frustrating at times. Follow the guide below to help your
-  dog know when it's time to blow off a little steam.
+description: Video games are a popular past-time these days. They can be challenging, rewarding,
+  and maybe even a little frustrating. Follow the guide below to help your
+  dog blow off some steam in online matchups.
 image: img/dog-gamer.jpg
 steps:
   - Boot up your favorite gaming console or PC and jump into an online
-    head-to-head game Halo 3, PUBG, or LoL. You and your dog can be on the same
+    head-to-head game of Halo 3, PUBG, or LoL. You and your dog can be on the same
     team.
   - Make sure you two warm-up with a few matches before getting serious. Don't
     worry about any losses since these are just for fun.
