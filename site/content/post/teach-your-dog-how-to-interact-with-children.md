@@ -4,7 +4,7 @@ date: 2020-05-23T22:38:13.819Z
 description: "Parents these days are more likely than ever to take their
   children into spaces once thought off-limits to children: cafes, hair
   dressers, even grocery stores! That your dog will need to engage with a child
-  in either public and private is near guaranteed. This guide will help you and
+  in either public or private is near guaranteed. This guide will help you and
   your dog navigate these delicate interactions with aplomb. "
 image: img/dog-and-child.jpeg
 steps:
@@ -24,7 +24,7 @@ steps:
   - "Advise your dog, under no circumstances, should they attempt to lick clean
     a child's face. Children are often found covered in a fine sticky-sweet
     film, but researchers have discovered this to be essential to the
-    transportation mechanism of the handlers. "
+    nourishment mechanism of the handlers. "
   - "***The next action is the single-most important in the whole exchange and a
     failure here could be a black spot on your dog's reputation for the
     foreseeable future.*** Have your dog allow the child to rub their belly.
