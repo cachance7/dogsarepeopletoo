@@ -29,6 +29,7 @@ steps:
   - "Finally, take pictures of the scene from many different angles. Your dog
     can appear in some of them with a magnifying glass if they'd like, but it
     isn't necessary. "
-  - And there you have it – crime scene recreated. At last, case closed!
+  - And there you have it – crime scene recreated. Feel free to smoke a pipe or
+    play a violin. At last, case closed!
 ---
 *(Sherlock Bones)*
