@@ -10,14 +10,14 @@ steps:
   - The first thing you'll need is a crime. Rather than commit one of your own,
     it's often more informative to choose someone else's. Try visiting your
     local police precinct and asking to review crimes on file. Recent incidents
-    will be easier to recreate but cold cases can be more fun!
+    will be easier to recreate but cold cases can be more fun.
   - Next up, you two will need supplies. In addition to a trip to the general
     store, take your dog to the art supplies store. They'll have an opportunity
-    to flex their creative muscles, too!
+    to flex their creative muscles, too.
   - "The final preparation is to choose a suitable spot. If the original
     location is available, do your best to gain access. Public places are ideal,
-    but friends and family of those involved are often happy to help! "
-  - "Now it's time to begin the recreation! Start by having your dog trace an
+    but friends and family of those involved are often happy to help. "
+  - "Now it's time to begin the recreation. Start by having your dog trace an
     outline of your body on the ground in chalk – any pose you like. This will
     be your centerpiece. "
   - 'Next, you and your dog should plant little numbered flags around the room
