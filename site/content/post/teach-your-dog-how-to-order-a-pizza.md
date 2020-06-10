@@ -15,6 +15,7 @@ steps:
   - "Hey does Hairball still work there? Uhh, Harry. Yeah yeah! Tell him Ben
     says \"what's up\". Haha. "
   - Alright. Yeah, I'll just pay cash when they get here. Thirty minutes? Cool,
-    sounds good. Thanks, you too. Bye.
+    sounds good. Thanks, love you, too. Bye.
+  - Shit.
 ---
 *(Pizza – it's what's for dinner.)*
