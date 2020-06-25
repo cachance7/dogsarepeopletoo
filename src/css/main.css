@@ -90,6 +90,8 @@
     margin-left: -1.5rem;
     text-transform: capitalize;
     font-size: 2rem;
+    text-shadow: 2px 2px #888;
+    transform: rotate(-10deg);
   }
 
   .steps {
