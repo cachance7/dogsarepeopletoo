@@ -5,7 +5,7 @@ description: "Beekeeping is one of the fastest growing bee-related activities
   today. But despite the name, it takes more than just hanging onto the bees to
   be successful. Read on to discover how to introduce your dog to the
   fascinating and profitable world of honeybee-keepery. "
-image: img/dog-bee.webp
+image: img/dog-bee2.jpg
 steps:
   - First, attach a net to your dog's back and have them run through a flowery
     field in the summer at noon. This will allow you to collect the "pioneer
