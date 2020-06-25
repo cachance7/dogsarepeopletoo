@@ -11,7 +11,7 @@ steps:
     field in the summer at noon. This will allow you to collect the "pioneer
     bees" needed for bootstrapping a hive. Between 30 and 50 bees will do.
   - Next, find a big wooden box that can close entirely and put it on a table
-    outside. This is what professionals calls a "bee home". This is where your
+    outside. This is what professionals call a "bee home". This is where your
     bees will live.
   - "Have your dog shake all of the bees into the box and seal them up for 3
     days and 3 nights. This is the period of Great Deliberation when the bees
