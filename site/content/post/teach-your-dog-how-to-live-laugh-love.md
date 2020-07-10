@@ -1,7 +1,7 @@
 ---
 title: Teach Your Dog How to Live, Laugh, Love
 date: 2020-07-09T21:02:30.694Z
-description: Sometimes it's important that your dog just take a moment and
+description: Sometimes it's important that your dog just take a moment to
   breathe. Everything is going to be ok. Below are some inspirational quotes to
   help get your dog through any rough times.
 image: img/dog-zen.jpg
