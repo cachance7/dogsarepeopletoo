@@ -1,6 +1,7 @@
 ---
 title: Teach Your Dog How to Troll
 date: 2020-06-22T20:09:54.030Z
+publishDate: 2090-06-22T20:09:54.030Z
 description: Trolling is a art — one of the oldest, in fact. Dating all the way
   back to the Usenet groups of the 1980s, trolls have garnered an esteemed place
   within discourse at the commons. This post will help you guide your dog on
