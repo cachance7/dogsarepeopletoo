@@ -6,10 +6,10 @@ description: Sometimes it's important that your dog just take a moment to
   help get your dog through any rough times.
 image: img/dog-zen.jpg
 steps:
+  - Remember, fur is thicker than water.
   - Everytime God closes a door, he cracks open your window.
   - Kill 'em with kindness and leave no trace.
   - Wag yourself clean.
-  - Remember, fur is thicker than water.
   - Bark softly and carry a big stick.
   - Pobody's nerfect.
   - Dance like nobody's watching, even if they are.
